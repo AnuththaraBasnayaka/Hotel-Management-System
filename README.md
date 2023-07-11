@@ -5,7 +5,7 @@
     <img src="images/Hotellogo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">OSGI FrameWork forRoom Service management System </h3>
+  <h3 align="center">OSGI Framework for Hotel Room Service Management System </h3>
 
   <p align="center">
     <a href="https://www.sliit.lk/"><strong>Sri Lanka Institute of Information Technology</strong></a>
