@@ -15,7 +15,7 @@
     <br />
     <a href="Docs/SE3030_SA_Assignment01_and_MarkingScheme_2022.pdf">Assignment 01 </a>
     <br />
-    SE3030_WE_72
+    SE3030_WE
     <br />     
   </p>
 </div>
