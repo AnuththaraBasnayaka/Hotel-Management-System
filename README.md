@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AnuththaraBasnayaka/HotelManagementSystem">
-    <img src="git_image/Hotellogo.png" alt="Logo" width="100" height="100">
+    <img src="images/Hotellogo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">OSGI FrameWork forRoom Service management System </h3>
@@ -39,7 +39,7 @@ User can enter any of above mention option and can navigate but if enter invalid
 
 Diagram_edit-Room Service Cashier Producer Senario .drawio.png image illustrate the workflow
 <br>
-    <img src="git_image/OSGi Diagram_edit-Room Service Cashier Producer Senario .drawio.png" alt="Customer workflow">
+    <img src="images/OSGi Diagram_edit-Room Service Cashier Producer Senario .drawio.png" alt="Customer workflow">
 
 
 ### Room service cashier
@@ -48,7 +48,7 @@ git_image/OSGi Diagram_edit-Room Service Management Producer Senario .drawio.png
 
 OSGi Diagram_edit-Room Service Management Producer Senario .drawio.png image illustrate the workflow
 <br>
-<img src="git_image/OSGi Diagram_edit-Room Service Management Producer Senario .drawio.png" alt="Customer workflow">
+<img src="images/OSGi Diagram_edit-Room Service Management Producer Senario .drawio.png" alt="Customer workflow">
 
 
 
