@@ -82,7 +82,7 @@ After run the program stop subcribers and consumers
 ## Sample screenshots of its behavior & outputs.
 <img src="images/addroom.PNG" alt="Customer workflow">
 <img src="images/clientbill.png" alt="Customer workflow">
-<img src="images/newcash.png" alt="Customer workflow">
+<img src="images/newcash.PNG" alt="Customer workflow">
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
