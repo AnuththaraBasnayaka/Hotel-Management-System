@@ -78,7 +78,11 @@ After run the program stop subcribers and consumers
 
 🚀This project contain 1 producer and 2 consumers (1:2)
 
+<!-- SAMPLE OUTPUT -->
 ## Sample screenshots of its behavior & outputs.
+<img src="images/addroom.PNG" alt="Customer workflow">
+<img src="images/clientbill.png" alt="Customer workflow">
+<img src="images/newcash.png" alt="Customer workflow">
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
